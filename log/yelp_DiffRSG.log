@@ -1,0 +1,206 @@
+Following will output the evaluation of the model:
+Epoch:1, compute loss cost:13.6716s, train loss:8137.0229, val loss:4082.7407, test loss:22005.1914
+Evaluate cost:11.8165s 
+ Top5: hr:0.0093, ndcg:0.0055 
+ Top10: hr:0.0198, ndcg:0.0092 
+ Top15: hr:0.0310, ndcg:0.0124
+目前指标的最好结果: hr5:0.0093, hr10:0.0198,  hr15:0.0310, ndcg5:0.0055, ndcg10:0.0092, ndcg15:0.0124
+Epoch:2, compute loss cost:5.2679s, train loss:6291.0747, val loss:3931.1104, test loss:21152.8770
+Evaluate cost:10.3379s 
+ Top5: hr:0.0120, ndcg:0.0073 
+ Top10: hr:0.0251, ndcg:0.0119 
+ Top15: hr:0.0417, ndcg:0.0166
+目前指标的最好结果: hr5:0.0120, hr10:0.0251,  hr15:0.0417, ndcg5:0.0073, ndcg10:0.0119, ndcg15:0.0166
+Epoch:3, compute loss cost:5.3671s, train loss:6105.6758, val loss:3844.5876, test loss:20658.6680
+Evaluate cost:10.2110s 
+ Top5: hr:0.0159, ndcg:0.0098 
+ Top10: hr:0.0361, ndcg:0.0168 
+ Top15: hr:0.0567, ndcg:0.0228
+目前指标的最好结果: hr5:0.0159, hr10:0.0361,  hr15:0.0567, ndcg5:0.0098, ndcg10:0.0168, ndcg15:0.0228
+Epoch:4, compute loss cost:5.2149s, train loss:5979.9102, val loss:3770.5933, test loss:20258.1113
+Evaluate cost:10.2090s 
+ Top5: hr:0.0244, ndcg:0.0145 
+ Top10: hr:0.0482, ndcg:0.0228 
+ Top15: hr:0.0721, ndcg:0.0299
+目前指标的最好结果: hr5:0.0244, hr10:0.0482,  hr15:0.0721, ndcg5:0.0145, ndcg10:0.0228, ndcg15:0.0299
+Epoch:5, compute loss cost:5.4659s, train loss:5861.0474, val loss:3689.2749, test loss:19837.6445
+Evaluate cost:11.1927s 
+ Top5: hr:0.0336, ndcg:0.0212 
+ Top10: hr:0.0633, ndcg:0.0316 
+ Top15: hr:0.0927, ndcg:0.0402
+目前指标的最好结果: hr5:0.0336, hr10:0.0633,  hr15:0.0927, ndcg5:0.0212, ndcg10:0.0316, ndcg15:0.0402
+Epoch:6, compute loss cost:5.5772s, train loss:5737.0547, val loss:3591.9683, test loss:19340.3633
+Evaluate cost:11.0035s 
+ Top5: hr:0.0461, ndcg:0.0303 
+ Top10: hr:0.0818, ndcg:0.0428 
+ Top15: hr:0.1160, ndcg:0.0529
+目前指标的最好结果: hr5:0.0461, hr10:0.0818,  hr15:0.1160, ndcg5:0.0303, ndcg10:0.0428, ndcg15:0.0529
+Epoch:7, compute loss cost:5.7724s, train loss:5577.4888, val loss:3473.3005, test loss:18737.7031
+Evaluate cost:10.3043s 
+ Top5: hr:0.0586, ndcg:0.0401 
+ Top10: hr:0.1021, ndcg:0.0555 
+ Top15: hr:0.1388, ndcg:0.0663
+目前指标的最好结果: hr5:0.0586, hr10:0.1021,  hr15:0.1388, ndcg5:0.0401, ndcg10:0.0555, ndcg15:0.0663
+Epoch:8, compute loss cost:4.9716s, train loss:5382.0151, val loss:3323.2051, test loss:17982.0781
+Evaluate cost:9.6448s 
+ Top5: hr:0.0713, ndcg:0.0493 
+ Top10: hr:0.1189, ndcg:0.0661 
+ Top15: hr:0.1617, ndcg:0.0788
+目前指标的最好结果: hr5:0.0713, hr10:0.1189,  hr15:0.1617, ndcg5:0.0493, ndcg10:0.0661, ndcg15:0.0788
+Epoch:9, compute loss cost:5.2822s, train loss:5138.2144, val loss:3135.7749, test loss:17032.6680
+Evaluate cost:10.1885s 
+ Top5: hr:0.0829, ndcg:0.0581 
+ Top10: hr:0.1366, ndcg:0.0771 
+ Top15: hr:0.1811, ndcg:0.0903
+目前指标的最好结果: hr5:0.0829, hr10:0.1366,  hr15:0.1811, ndcg5:0.0581, ndcg10:0.0771, ndcg15:0.0903
+Epoch:10, compute loss cost:5.2925s, train loss:4831.4473, val loss:2900.7395, test loss:15844.6992
+Evaluate cost:9.6620s 
+ Top5: hr:0.0916, ndcg:0.0646 
+ Top10: hr:0.1510, ndcg:0.0857 
+ Top15: hr:0.1950, ndcg:0.0988
+目前指标的最好结果: hr5:0.0916, hr10:0.1510,  hr15:0.1950, ndcg5:0.0646, ndcg10:0.0857, ndcg15:0.0988
+Epoch:11, compute loss cost:5.1135s, train loss:4450.8862, val loss:2619.3564, test loss:14409.0820
+Evaluate cost:10.3985s 
+ Top5: hr:0.0995, ndcg:0.0705 
+ Top10: hr:0.1606, ndcg:0.0922 
+ Top15: hr:0.2052, ndcg:0.1056
+目前指标的最好结果: hr5:0.0995, hr10:0.1606,  hr15:0.2052, ndcg5:0.0705, ndcg10:0.0922, ndcg15:0.1056
+Epoch:12, compute loss cost:5.3836s, train loss:4001.4651, val loss:2308.3760, test loss:12795.1963
+Evaluate cost:9.9302s 
+ Top5: hr:0.1053, ndcg:0.0741 
+ Top10: hr:0.1648, ndcg:0.0951 
+ Top15: hr:0.2111, ndcg:0.1089
+目前指标的最好结果: hr5:0.1053, hr10:0.1648,  hr15:0.2111, ndcg5:0.0741, ndcg10:0.0951, ndcg15:0.1089
+Epoch:13, compute loss cost:5.2160s, train loss:3515.9822, val loss:2004.1144, test loss:11172.7363
+Evaluate cost:9.6774s 
+ Top5: hr:0.1063, ndcg:0.0752 
+ Top10: hr:0.1681, ndcg:0.0972 
+ Top15: hr:0.2138, ndcg:0.1108
+目前指标的最好结果: hr5:0.1063, hr10:0.1681,  hr15:0.2138, ndcg5:0.0752, ndcg10:0.0972, ndcg15:0.1108
+Epoch:14, compute loss cost:5.1974s, train loss:3050.0681, val loss:1747.7422, test loss:9756.7754
+Evaluate cost:10.1188s 
+ Top5: hr:0.1063, ndcg:0.0755 
+ Top10: hr:0.1656, ndcg:0.0967 
+ Top15: hr:0.2127, ndcg:0.1106
+目前指标的最好结果: hr5:0.1063, hr10:0.1681,  hr15:0.2138, ndcg5:0.0755, ndcg10:0.0972, ndcg15:0.1108
+Epoch:15, compute loss cost:5.0130s, train loss:2664.5391, val loss:1566.4340, test loss:8692.3203
+Evaluate cost:9.6661s 
+ Top5: hr:0.1074, ndcg:0.0766 
+ Top10: hr:0.1630, ndcg:0.0965 
+ Top15: hr:0.2123, ndcg:0.1110
+目前指标的最好结果: hr5:0.1074, hr10:0.1681,  hr15:0.2123, ndcg5:0.0766, ndcg10:0.0972, ndcg15:0.1110
+Epoch:16, compute loss cost:5.2127s, train loss:2376.9165, val loss:1450.2355, test loss:7967.4351
+Evaluate cost:9.6874s 
+ Top5: hr:0.1060, ndcg:0.0766 
+ Top10: hr:0.1648, ndcg:0.0974 
+ Top15: hr:0.2120, ndcg:0.1115
+目前指标的最好结果: hr5:0.1074, hr10:0.1648,  hr15:0.2120, ndcg5:0.0766, ndcg10:0.0974, ndcg15:0.1115
+Epoch:17, compute loss cost:5.1349s, train loss:2182.2051, val loss:1379.7416, test loss:7497.5615
+Evaluate cost:10.3632s 
+ Top5: hr:0.1071, ndcg:0.0774 
+ Top10: hr:0.1649, ndcg:0.0979 
+ Top15: hr:0.2161, ndcg:0.1131
+目前指标的最好结果: hr5:0.1071, hr10:0.1649,  hr15:0.2161, ndcg5:0.0774, ndcg10:0.0979, ndcg15:0.1131
+Epoch:18, compute loss cost:5.0636s, train loss:2050.7292, val loss:1332.7288, test loss:7184.3169
+Evaluate cost:9.8128s 
+ Top5: hr:0.1096, ndcg:0.0784 
+ Top10: hr:0.1729, ndcg:0.1009 
+ Top15: hr:0.2236, ndcg:0.1160
+目前指标的最好结果: hr5:0.1096, hr10:0.1729,  hr15:0.2236, ndcg5:0.0784, ndcg10:0.1009, ndcg15:0.1160
+Epoch:19, compute loss cost:5.0102s, train loss:1956.8849, val loss:1299.4493, test loss:6962.3076
+Evaluate cost:9.8799s 
+ Top5: hr:0.1152, ndcg:0.0816 
+ Top10: hr:0.1841, ndcg:0.1061 
+ Top15: hr:0.2374, ndcg:0.1220
+目前指标的最好结果: hr5:0.1152, hr10:0.1841,  hr15:0.2374, ndcg5:0.0816, ndcg10:0.1061, ndcg15:0.1220
+Epoch:20, compute loss cost:5.0888s, train loss:1885.3745, val loss:1273.4468, test loss:6790.8193
+Evaluate cost:10.0260s 
+ Top5: hr:0.1226, ndcg:0.0860 
+ Top10: hr:0.1947, ndcg:0.1119 
+ Top15: hr:0.2500, ndcg:0.1284
+目前指标的最好结果: hr5:0.1226, hr10:0.1947,  hr15:0.2500, ndcg5:0.0860, ndcg10:0.1119, ndcg15:0.1284
+Epoch:21, compute loss cost:5.3755s, train loss:1827.1050, val loss:1251.1514, test loss:6650.3828
+Evaluate cost:10.0673s 
+ Top5: hr:0.1319, ndcg:0.0921 
+ Top10: hr:0.2044, ndcg:0.1182 
+ Top15: hr:0.2639, ndcg:0.1359
+目前指标的最好结果: hr5:0.1319, hr10:0.2044,  hr15:0.2639, ndcg5:0.0921, ndcg10:0.1182, ndcg15:0.1359
+Epoch:22, compute loss cost:5.2973s, train loss:1777.0709, val loss:1229.6816, test loss:6528.0752
+Evaluate cost:9.6816s 
+ Top5: hr:0.1406, ndcg:0.0988 
+ Top10: hr:0.2153, ndcg:0.1256 
+ Top15: hr:0.2747, ndcg:0.1435
+目前指标的最好结果: hr5:0.1406, hr10:0.2153,  hr15:0.2747, ndcg5:0.0988, ndcg10:0.1256, ndcg15:0.1435
+Epoch:23, compute loss cost:4.9596s, train loss:1731.8004, val loss:1210.1987, test loss:6418.7832
+Evaluate cost:9.8779s 
+ Top5: hr:0.1498, ndcg:0.1053 
+ Top10: hr:0.2280, ndcg:0.1335 
+ Top15: hr:0.2849, ndcg:0.1505
+目前指标的最好结果: hr5:0.1498, hr10:0.2280,  hr15:0.2849, ndcg5:0.1053, ndcg10:0.1335, ndcg15:0.1505
+Epoch:24, compute loss cost:5.0551s, train loss:1689.8625, val loss:1191.1355, test loss:6315.3291
+Evaluate cost:9.9858s 
+ Top5: hr:0.1574, ndcg:0.1118 
+ Top10: hr:0.2370, ndcg:0.1404 
+ Top15: hr:0.2926, ndcg:0.1571
+目前指标的最好结果: hr5:0.1574, hr10:0.2370,  hr15:0.2926, ndcg5:0.1118, ndcg10:0.1404, ndcg15:0.1571
+Epoch:25, compute loss cost:5.1906s, train loss:1649.5522, val loss:1173.6130, test loss:6218.8965
+Evaluate cost:10.7795s 
+ Top5: hr:0.1655, ndcg:0.1181 
+ Top10: hr:0.2443, ndcg:0.1464 
+ Top15: hr:0.3008, ndcg:0.1633
+目前指标的最好结果: hr5:0.1655, hr10:0.2443,  hr15:0.3008, ndcg5:0.1181, ndcg10:0.1464, ndcg15:0.1633
+Epoch:26, compute loss cost:5.2646s, train loss:1613.5460, val loss:1156.4181, test loss:6126.9980
+Evaluate cost:10.2334s 
+ Top5: hr:0.1701, ndcg:0.1229 
+ Top10: hr:0.2540, ndcg:0.1529 
+ Top15: hr:0.3117, ndcg:0.1702
+目前指标的最好结果: hr5:0.1701, hr10:0.2540,  hr15:0.3117, ndcg5:0.1229, ndcg10:0.1529, ndcg15:0.1702
+Epoch:27, compute loss cost:5.4223s, train loss:1572.8060, val loss:1138.8198, test loss:6037.6533
+Evaluate cost:10.2884s 
+ Top5: hr:0.1771, ndcg:0.1291 
+ Top10: hr:0.2608, ndcg:0.1590 
+ Top15: hr:0.3228, ndcg:0.1775
+目前指标的最好结果: hr5:0.1771, hr10:0.2608,  hr15:0.3228, ndcg5:0.1291, ndcg10:0.1590, ndcg15:0.1775
+Epoch:28, compute loss cost:5.4031s, train loss:1537.9336, val loss:1122.0909, test loss:5953.4521
+Evaluate cost:10.0402s 
+ Top5: hr:0.1831, ndcg:0.1342 
+ Top10: hr:0.2698, ndcg:0.1652 
+ Top15: hr:0.3288, ndcg:0.1828
+目前指标的最好结果: hr5:0.1831, hr10:0.2698,  hr15:0.3288, ndcg5:0.1342, ndcg10:0.1652, ndcg15:0.1828
+Epoch:29, compute loss cost:5.2997s, train loss:1503.5732, val loss:1106.4852, test loss:5873.5693
+Evaluate cost:10.2577s 
+ Top5: hr:0.1883, ndcg:0.1387 
+ Top10: hr:0.2748, ndcg:0.1697 
+ Top15: hr:0.3373, ndcg:0.1885
+目前指标的最好结果: hr5:0.1883, hr10:0.2748,  hr15:0.3373, ndcg5:0.1387, ndcg10:0.1697, ndcg15:0.1885
+Epoch:30, compute loss cost:5.0862s, train loss:1470.6047, val loss:1091.8635, test loss:5796.3706
+Evaluate cost:10.2387s 
+ Top5: hr:0.1929, ndcg:0.1433 
+ Top10: hr:0.2797, ndcg:0.1744 
+ Top15: hr:0.3454, ndcg:0.1941
+目前指标的最好结果: hr5:0.1929, hr10:0.2797,  hr15:0.3454, ndcg5:0.1433, ndcg10:0.1744, ndcg15:0.1941
+Epoch:31, compute loss cost:5.3721s, train loss:1437.8096, val loss:1077.2554, test loss:5720.3516
+Evaluate cost:10.3055s 
+ Top5: hr:0.1989, ndcg:0.1473 
+ Top10: hr:0.2854, ndcg:0.1783 
+ Top15: hr:0.3531, ndcg:0.1985
+目前指标的最好结果: hr5:0.1989, hr10:0.2854,  hr15:0.3531, ndcg5:0.1473, ndcg10:0.1783, ndcg15:0.1985
+Epoch:32, compute loss cost:5.4070s, train loss:1405.4294, val loss:1063.2788, test loss:5648.9277
+Evaluate cost:10.6903s 
+ Top5: hr:0.2022, ndcg:0.1501 
+ Top10: hr:0.2922, ndcg:0.1824 
+ Top15: hr:0.3575, ndcg:0.2020
+目前指标的最好结果: hr5:0.2022, hr10:0.2922,  hr15:0.3575, ndcg5:0.1501, ndcg10:0.1824, ndcg15:0.2020
+Following will output the evaluation of the model:
+Epoch:1, compute loss cost:14.2227s, train loss:7778.5645, val loss:4032.8022, test loss:21759.5078
+Evaluate cost:11.3945s 
+ Top5: hr:0.0080, ndcg:0.0050 
+ Top10: hr:0.0169, ndcg:0.0082 
+ Top15: hr:0.0263, ndcg:0.0110
+目前指标的最好结果: hr5:0.0080, hr10:0.0169,  hr15:0.0263, ndcg5:0.0050, ndcg10:0.0082, ndcg15:0.0110
+Epoch:2, compute loss cost:5.0585s, train loss:6277.2549, val loss:3913.3503, test loss:21098.6406
+Evaluate cost:9.6827s 
+ Top5: hr:0.0098, ndcg:0.0064 
+ Top10: hr:0.0215, ndcg:0.0105 
+ Top15: hr:0.0333, ndcg:0.0140
+目前指标的最好结果: hr5:0.0098, hr10:0.0215,  hr15:0.0333, ndcg5:0.0064, ndcg10:0.0105, ndcg15:0.0140

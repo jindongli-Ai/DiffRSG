@@ -1,0 +1,44 @@
+Following will output the evaluation of the model:
+Epoch:1, compute loss cost:71.1843s, train loss:23300.6855, val loss:16887.7656, test loss:42502.3555
+Evaluate cost:18.4392s 
+ Top5: hr:0.0191, ndcg:0.0174 
+ Top10: hr:0.0291, ndcg:0.0215 
+ Top15: hr:0.0371, ndcg:0.0242
+目前指标的最好结果: hr5:0.0191, hr10:0.0291,  hr15:0.0371, ndcg5:0.0174, ndcg10:0.0215, ndcg15:0.0242
+Epoch:2, compute loss cost:40.0255s, train loss:21308.4590, val loss:16304.8525, test loss:41031.3047
+Evaluate cost:10.8893s 
+ Top5: hr:0.0217, ndcg:0.0191 
+ Top10: hr:0.0327, ndcg:0.0236 
+ Top15: hr:0.0435, ndcg:0.0275
+目前指标的最好结果: hr5:0.0217, hr10:0.0327,  hr15:0.0435, ndcg5:0.0191, ndcg10:0.0236, ndcg15:0.0275
+Following will output the evaluation of the model:
+Epoch:1, compute loss cost:71.5876s, train loss:24412.9785, val loss:16953.2109, test loss:42612.6133
+Evaluate cost:16.5651s 
+ Top5: hr:0.0177, ndcg:0.0166 
+ Top10: hr:0.0257, ndcg:0.0198 
+ Top15: hr:0.0347, ndcg:0.0230
+目前指标的最好结果: hr5:0.0177, hr10:0.0257,  hr15:0.0347, ndcg5:0.0166, ndcg10:0.0198, ndcg15:0.0230
+Epoch:2, compute loss cost:36.1713s, train loss:21452.5703, val loss:16594.9609, test loss:41740.2656
+Evaluate cost:8.8873s 
+ Top5: hr:0.0182, ndcg:0.0170 
+ Top10: hr:0.0277, ndcg:0.0209 
+ Top15: hr:0.0368, ndcg:0.0242
+目前指标的最好结果: hr5:0.0182, hr10:0.0277,  hr15:0.0368, ndcg5:0.0170, ndcg10:0.0209, ndcg15:0.0242
+Epoch:3, compute loss cost:37.0059s, train loss:20916.1621, val loss:16068.7568, test loss:40395.8750
+Evaluate cost:9.1556s 
+ Top5: hr:0.0233, ndcg:0.0209 
+ Top10: hr:0.0341, ndcg:0.0254 
+ Top15: hr:0.0456, ndcg:0.0294
+目前指标的最好结果: hr5:0.0233, hr10:0.0341,  hr15:0.0456, ndcg5:0.0209, ndcg10:0.0254, ndcg15:0.0294
+Epoch:4, compute loss cost:36.6800s, train loss:20023.6406, val loss:15118.3145, test loss:37911.0352
+Evaluate cost:8.9114s 
+ Top5: hr:0.0355, ndcg:0.0305 
+ Top10: hr:0.0555, ndcg:0.0383 
+ Top15: hr:0.0743, ndcg:0.0447
+目前指标的最好结果: hr5:0.0355, hr10:0.0555,  hr15:0.0743, ndcg5:0.0305, ndcg10:0.0383, ndcg15:0.0447
+Epoch:5, compute loss cost:35.6914s, train loss:18480.2441, val loss:14236.8652, test loss:35534.4102
+Evaluate cost:9.1416s 
+ Top5: hr:0.0780, ndcg:0.0633 
+ Top10: hr:0.1123, ndcg:0.0764 
+ Top15: hr:0.1420, ndcg:0.0863
+目前指标的最好结果: hr5:0.0780, hr10:0.1123,  hr15:0.1420, ndcg5:0.0633, ndcg10:0.0764, ndcg15:0.0863
