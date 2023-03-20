@@ -1,5 +1,5 @@
 ### Basic Information:
-This code is released for the papers(underview): 
+This code is released for the papers(under review): 
 
 ECMLPKDD_2023, DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation
 
