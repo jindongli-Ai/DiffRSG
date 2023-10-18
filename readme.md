@@ -1,7 +1,7 @@
 ### Basic Information:
 This code is released for the papers(under review): 
 
-ECMLPKDD_2023, DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation
+DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation
 
 The article is in the period of review. Please do not quote or use it for other purposes
 
