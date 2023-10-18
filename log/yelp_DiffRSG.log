@@ -1,7 +1,0 @@
-Following will output the evaluation of the model:
-Epoch:1, compute loss cost:13.6716s, train loss:8137.0229, val loss:4082.7407, test loss:22005.1914
-Evaluate cost:11.8165s 
- Top5: hr:0.0093, ndcg:0.0055 
- Top10: hr:0.0198, ndcg:0.0092 
- Top15: hr:0.0310, ndcg:0.0124
-
