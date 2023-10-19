@@ -6,15 +6,15 @@ DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for
 The article is in the period of review. Please do not use it for other purposes
 
 # Requirements
-Python==3.6
-Tensorflow-gpu==1.12.0
+- Python==3.6
+- Tensorflow-gpu==1.12.0
 
 # Dataset
 Download datasets (Yelp, Flickr) from this [link](https://drive.google.com/drive/folders/1YAJvgsCJLKDFPVFMX3OG7v3m1LAYZD5R?usp=sharing) , and just put the downloaded folder 'data' in the sub-directory named DiffRSG of your local clone repository.
 
 # Hardware used for implementation
-GPU: RTX5000 (16GB)
-GPU: RTX3090 (24GB)
+- GPU: RTX5000 (16GB)
+- GPU: RTX3090 (24GB)
 
 # Usage:
 1. Run DiffRSG:
